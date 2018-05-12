@@ -1,0 +1,27 @@
+_repo: Nordostpassagens-Historia--Eller-Vega-Expeditionens-F-reg-ngare_31539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stuxberg, Anton
+    birthdate: 1849
+    deathdate: 1902
+    gutenberg_agent_id: '35306'
+    url: http://www.gutenberg.org/2009/agents/35306
+    wikipedia: http://sv.wikipedia.org/wiki/Anton_Stuxberg
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31539'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Northeast Passage'
+title: Nordostpassagens Historia; Eller, Vega-Expeditionens Föregångare
+url: http://www.gutenberg.org/ebooks/31539
